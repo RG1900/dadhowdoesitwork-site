@@ -10,5 +10,6 @@ function apply(){var v=q.value.toLowerCase().trim(),n=0;
 function setTopic(t,push){topic=N.hasOwnProperty(t)?t:'';apply();if(push){var u=topic?'?topic='+topic:location.pathname;history.replaceState(null,'',u)}}
 chips.forEach(function(c){c.addEventListener('click',function(ev){if(ev.metaKey||ev.ctrlKey||ev.shiftKey)return;ev.preventDefault();setTopic(c.getAttribute('data-topic'),true)})});
 q.addEventListener('input',apply);
+var mq=/[?&]q=([^&]*)/.exec(location.search);if(mq){try{q.value=decodeURIComponent(mq[1].replace(/\+/g,' '))}catch(e){}}
 var m=/[?&]topic=([a-z-]+)/.exec(location.search);setTopic(m?m[1]:'',false);
 })();

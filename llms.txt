@@ -1,0 +1,128 @@
+# Dad, How Does It Work? (Hebrew: אבא, איך זה עובד?)
+
+> Dad, How Does It Work? is a family-friendly science podcast for curious kids ages 5–10, created by Roey Granot. Each short episode answers one everyday question (why is the sky blue, how do planes fly) in a conversation between two adult hosts. A Hebrew edition, אבא, איך זה עובד?, covers the same questions for ages 7–14.
+
+## Official links
+- Website: https://dadhowdoesitwork.com/
+- Hebrew website: https://dadhowdoesitwork.com/he/
+- Spotify: https://open.spotify.com/show/4z5BtKPgtJx0JR47kEjqJi
+- Apple Podcasts: https://podcasts.apple.com/us/podcast/dad-how-does-it-work-science-podcast-for-kids/id1877456012
+- YouTube: https://www.youtube.com/@DadHowDoesItWork
+- Instagram: https://www.instagram.com/dadhowdoesitwork/
+- Facebook: https://www.facebook.com/dadhowdoesitwork/
+- LinkedIn: https://www.linkedin.com/company/dad-how-does-it-work/
+- RSS: https://anchor.fm/s/10eb0cbb0/podcast/rss
+- Hebrew show on Spotify: https://open.spotify.com/show/2OVbRcjHeyexqGNLyLUo8W
+- Hebrew show on Apple Podcasts: https://podcasts.apple.com/il/podcast/id1870061767
+- Hebrew RSS: https://anchor.fm/s/10cbe80cc/podcast/rss
+- Contact: dadhowdoesitwork@mail.grokbot.com
+
+## Key pages
+- [All episodes](https://dadhowdoesitwork.com/episodes/): every episode, searchable, with topic filters
+- [About](https://dadhowdoesitwork.com/about/)
+- [Hebrew episodes](https://dadhowdoesitwork.com/he/episodes/)
+
+## Episodes (English)
+- [How Does a Refrigerator Make My Drink Cold?](https://dadhowdoesitwork.com/episodes/how-does-a-refrigerator-make-my-drink-cold/): A fridge doesn't add cold; it takes heat out. A special liquid flows through pipes inside the fridge, soaks up heat from your drink and the air, and carries it to the back of the fridge, where it is released into the kitchen. That's why the back or sides of a fridge feel warm.
+- [Why Do Tears Come Out When I Cry?](https://dadhowdoesitwork.com/episodes/why-do-tears-come-out-when-i-cry/): Tears come from a small gland above the outer corner of each eye and drain through tiny holes near the nose, which is why your nose runs when you cry. Tears keep the eye clean and wet, and strong feelings can make the gland produce many more.
+- [Why Does My Stomach Growl When I'm Hungry?](https://dadhowdoesitwork.com/episodes/why-does-my-stomach-growl-when-im-hungry/): Your stomach and intestines always squeeze to move food along. When they're empty, the squeezing pushes around air and stomach juices, and the sound is louder because there's no food to muffle it. The growl is also a sign that your body is ready for food.
+- [Why Do We Need Soap If We Already Have Water?](https://dadhowdoesitwork.com/episodes/why-do-we-need-soap-if-we-already-have-water/): Water alone can't wash away grease and oil because oil and water don't mix. Soap molecules have one end that grabs oil and one end that holds on to water, so they wrap around the grease and germs and let the water rinse them away.
+- [Why Do Bites and Cuts Feel Worse in the Shower?](https://dadhowdoesitwork.com/episodes/why-do-bites-and-cuts-feel-worse-in-the-shower/): Water softens the skin and spreads over the small wound, and warm water sends more blood to the area. That wakes up the nerves around the bite or cut, so they send stronger itch or sting signals, even though the water itself is harmless.
+- [How Does Tapping a Credit Card Actually Pay?](https://dadhowdoesitwork.com/episodes/how-does-tapping-a-credit-card-actually-pay/): A credit card has a tiny chip and an antenna. When you tap it, the card reader powers the chip with radio waves, and the chip sends a secret one-time code. The bank checks it and promises the shop the money; the money actually moves a little later.
+- [How Do Trees Talk to Each Other?](https://dadhowdoesitwork.com/episodes/how-do-trees-talk-to-each-other/): Trees can warn each other. When insects chew a leaf, the tree releases invisible chemical signals into the air, and nearby trees that 'smell' them start making substances that taste bad to the insects. Underground, roots and fungi also connect trees.
+- [Why Do Your Fingers Get Wrinkly in Water?](https://dadhowdoesitwork.com/episodes/why-do-your-fingers-get-wrinkly-in-water/): Wrinkly fingers aren't just soggy skin. After a few minutes in water, your nerves tell the blood vessels in your fingertips to shrink, which pulls the skin into wrinkles. Scientists think the wrinkles may help us grip wet things, a bit like tyre treads.
+- [How Does a Cut Heal?](https://dadhowdoesitwork.com/episodes/how-does-a-cut-heal/): When you get a cut, tiny blood parts called platelets rush in and form a plug, which hardens into a scab that works like a temporary bandage. Under the scab, the body cleans the wound and builds new skin, which is why picking a scab slows healing.
+- [How Does a Battery Make Electricity?](https://dadhowdoesitwork.com/episodes/how-does-a-battery-make-electricity/): A battery holds two different materials with a chemical paste between them. When you connect it in a loop, a chemical reaction pushes electrons out of one end, through the wire and the device, and back into the other end. That flow is the electricity.
+- [How Does Google Know What a Red Panda Looks Like?](https://dadhowdoesitwork.com/episodes/how-does-google-know-what-a-red-panda-looks-like/): Google's computers learned from millions of pictures that people had already labelled, like 'red panda'. By comparing patterns of shapes and colours, the computer learned what red pandas usually look like, so it can recognise one in a new photo.
+- [Why Do I Feel Sick When I'm Driving?](https://dadhowdoesitwork.com/episodes/why-do-i-feel-sick-when-im-driving/): Car sickness happens when your eyes and your inner ear send your brain different messages. Your inner ear feels the car moving, but if you're looking at a book or screen, your eyes say you're still, and that mix-up makes you feel queasy. Looking out the window helps.
+- [How Did the Dinosaurs Disappear?](https://dadhowdoesitwork.com/episodes/how-did-the-dinosaurs-disappear/): About 66 million years ago, a giant rock from space, an asteroid, crashed into Earth. The crash sent dust and smoke into the sky that blocked sunlight and changed the climate, and most dinosaurs couldn't survive. Birds are the dinosaurs that did.
+- [Where Did Lego Start?](https://dadhowdoesitwork.com/episodes/where-did-lego-start/): Lego started in Denmark in the 1930s, when a carpenter named Ole Kirk Christiansen made wooden toys. The company later switched to plastic bricks, and in 1958 it designed the snap-together brick with studs and tubes that is still used today.
+- [How Does ChatGPT Sound Like a Real Person?](https://dadhowdoesitwork.com/episodes/how-does-chatgpt-sound-like-a-real-person/): ChatGPT learned from a huge amount of text written by people and became very good at guessing which word should come next. By picking one likely word after another, very fast, it writes answers that sound like a person, even though it doesn't think or feel like one.
+- [How Does Water Come Out of the Tap?](https://dadhowdoesitwork.com/episodes/how-does-water-come-out-of-the-tap/): Water travels from reservoirs and treatment plants through big underground pipes. It is pushed along under pressure, often from water towers or pumps, so when you open the tap, the pressure pushes water out.
+- [How Does the Remote Talk to the TV?](https://dadhowdoesitwork.com/episodes/how-does-the-remote-talk-to-the-tv/): A TV remote sends flashes of invisible infrared light from the little bulb at its front. Each button sends a different pattern of flashes, like a secret code, and a sensor on the TV reads the code and does what you asked.
+- [Where Does the Air Conditioner Get Cold Air?](https://dadhowdoesitwork.com/episodes/where-does-the-air-conditioner-get-cold-air/): An air conditioner doesn't make cold; it moves heat. A special liquid inside picks up heat from the room's air and carries it outside, where the outdoor unit releases it, so the air blown back into the room is cooler.
+- [Where Does All This Dust Come From?](https://dadhowdoesitwork.com/episodes/where-does-all-this-dust-come-from/): Dust is a mix of many tiny things: soil and sand blown in from outside, pollen, smoke, threads from clothes and carpets, bits of hair and skin, and more. Some screens attract dust because of static electricity.
+- [Why Do Companies Need More Money to Grow?](https://dadhowdoesitwork.com/episodes/why-do-companies-need-more-money-to-grow/): To grow, a company needs money before it earns it back: for new workers, machines, shops or factories. It can borrow money, or sell small pieces of itself, called shares, to investors who hope the company will grow.
+- [How Does Plastic Even Become a Balloon?](https://dadhowdoesitwork.com/episodes/how-does-plastic-even-become-a-balloon/): Plastic starts as tiny molecules, mostly from oil, that link together into very long chains. Some plastics have chains that can slide and stretch, so they can be made into thin, stretchy material that blows up into a balloon.
+- [How Are Stones Made?](https://dadhowdoesitwork.com/episodes/how-are-stones-made/): Stones form in different ways inside Earth's 'kitchen'. Hot melted rock cools and hardens, layers of sand and mud get pressed together over millions of years, or existing rock is squeezed and heated deep underground until it changes into a new kind of stone.
+- [Wait… Can I Actually Own Part of Apple and Netflix?](https://dadhowdoesitwork.com/episodes/wait-can-i-actually-own-part-of-apple-and-netflix/): Yes. Big companies like Apple and Netflix are split into millions of tiny pieces called shares, and anyone who buys a share owns a very small part of the company. If the company does well, the share can become worth more.
+- [Do Continents Really Move or Is That Just Earthquakes?](https://dadhowdoesitwork.com/episodes/do-continents-really-move-or-is-that-just-earthquakes/): Yes, continents really move. Earth's surface is split into huge pieces called plates that float on hot, slowly flowing rock and drift a few centimetres a year, about as fast as your fingernails grow. Earthquakes happen when the edges of these plates suddenly slip.
+- [How Do Astronauts Go to the Bathroom in Space?](https://dadhowdoesitwork.com/episodes/how-do-astronauts-go-to-the-bathroom-in-space/): In space everything floats, so astronauts use a special toilet that works with air suction, like a gentle vacuum cleaner, instead of water and gravity. Food comes in packets and they sleep in sleeping bags strapped to the wall so they don't drift around.
+- [Why Do We Need Vaccines If We're Not Sick?](https://dadhowdoesitwork.com/episodes/why-do-we-need-vaccines-if-were-not-sick/): A vaccine teaches your immune system to recognise a germ before you ever meet it, using a harmless piece or weakened version of it. If the real germ shows up later, your body already knows how to fight it, so you're much less likely to get sick.
+- [Why Do We Dream?](https://dadhowdoesitwork.com/episodes/why-do-we-dream/): When we sleep, the brain keeps working: it sorts what happened during the day and stores memories. Dreams happen mostly during a sleep stage called REM, and scientists think they help the brain process feelings and memories, though they are still studying exactly why.
+- [How Do Fish Even Breathe Underwater?](https://dadhowdoesitwork.com/episodes/how-do-fish-even-breathe-underwater/): Fish breathe through gills, thin feathery parts on the sides of their heads. Water flows in through the mouth and out over the gills, which take the oxygen dissolved in the water and pass it into the fish's blood.
+- [How Does My Phone Know Exactly Where I Am?](https://dadhowdoesitwork.com/episodes/how-does-my-phone-know-exactly-where-i-am/): Your phone listens for signals from GPS satellites orbiting high above Earth. By measuring how long the signals from several satellites take to arrive, it works out exactly where you are on the map.
+- [How Does a Microwave Heat Food So Fast?](https://dadhowdoesitwork.com/episodes/how-does-a-microwave-heat-food-so-fast/): A microwave oven sends invisible waves into the food that make the tiny water molecules inside wiggle back and forth extremely fast. All that jiggling makes heat, so the food warms up from the inside quickly.
+- [How Is the Mosquito Bite So Silent?](https://dadhowdoesitwork.com/episodes/how-is-the-mosquito-bite-so-silent/): A mosquito is tiny and very light, and it lands so gently that we usually don't feel it. When it bites, it slips in a very thin mouthpart and releases saliva that keeps us from feeling it right away. The itch comes later, when the body reacts to the saliva.
+- [How Does Paper Even Come From Trees?](https://dadhowdoesitwork.com/episodes/how-does-paper-even-come-from-trees/): Paper is made from wood. Trees are chopped into chips, mixed with water and broken down into a soupy pulp of tiny fibres, which is spread thin, pressed and dried into sheets.
+- [Why Do I Feel Cold Right After a Hot Shower?](https://dadhowdoesitwork.com/episodes/why-do-i-feel-cold-right-after-a-hot-shower/): After a shower, a thin layer of water stays on your skin. As it evaporates, it takes heat from your body with it, so you feel cold even though the shower was hot. Drying off with a towel quickly stops this.
+- [Why Isn't There Wi-Fi Outside?](https://dadhowdoesitwork.com/episodes/why-isnt-there-wi-fi-outside/): Wi-Fi is a radio signal sent by the router at home or at school, and it only reaches a limited distance, getting weaker through walls. Outside, you're usually too far from any router, so phones use mobile data from cell towers instead.
+- [Why Does Lightning Flash?](https://dadhowdoesitwork.com/episodes/why-does-lightning-flash/): Inside a storm cloud, bits of ice and water crash into each other and build up a huge electric charge. When the charge gets big enough, it jumps as a giant spark between the cloud and the ground or another cloud: that's lightning. Thunder is the sound of the air around it heating and expanding suddenly.
+- [Why Do Crabs Walk Sideways?](https://dadhowdoesitwork.com/episodes/why-do-crabs-walk-sideways/): A crab's legs bend at the joints sideways, not forward like ours, so stepping sideways is the fastest and easiest way for it to move. Walking sideways also lets it scuttle away quickly while keeping its claws ready.
+- [Why Is It Important to Eat Protein?](https://dadhowdoesitwork.com/episodes/why-is-it-important-to-eat-protein/): Protein is the body's building material. It helps build and repair muscles, skin, hair and many other parts, so growing kids need it from foods like eggs, beans, milk, fish and meat.
+- [Where Are All Our Games and Videos Saved?](https://dadhowdoesitwork.com/episodes/where-are-all-our-games-and-videos-saved/): Most of our games and videos are not stored inside our phone or tablet but on huge computers called servers, in buildings called data centres. When you press play, the internet sends the video from a server to your device, piece by piece.
+- [How Do Glasses Help Us Read?](https://dadhowdoesitwork.com/episodes/how-do-glasses-help-us-read/): Glasses have curved lenses that bend light before it enters your eyes. That moves the picture onto exactly the right spot at the back of the eye, so blurry words and faraway things look sharp again.
+- [Why Does Rain Fall From the Sky?](https://dadhowdoesitwork.com/episodes/why-does-rain-fall-from-the-sky/): The Sun warms water in seas and puddles until it rises into the air as invisible vapour. High up it cools and forms tiny droplets that make clouds, and when the droplets join into drops too heavy to float, they fall as rain.
+- [How Does a Self-Driving Car Drive by Itself?](https://dadhowdoesitwork.com/episodes/how-does-a-self-driving-car-drive-by-itself/): A self-driving car uses cameras, radar and other sensors to see the road, the cars and the people around it. A computer inside, trained on huge amounts of driving, decides many times a second when to steer, speed up or brake.
+- [Why Can't My Heart Ever Stop Beating?](https://dadhowdoesitwork.com/episodes/why-cant-my-heart-ever-stop-beating/): Your heart is a muscle that pumps blood carrying oxygen and food to every part of your body, all day and night. It has its own built-in electrical spark that starts every beat, so it keeps going even while you sleep, without you thinking about it.
+- [Why Is Everyone Always Telling Me to Eat Less Sugar?](https://dadhowdoesitwork.com/episodes/why-is-everyone-always-telling-me-to-eat-less-sugar/): Sugar gives quick energy, but too much of it feeds the bacteria in your mouth that make holes in your teeth, and it gives a short burst of energy followed by a crash. Your body works best with small amounts of sugar and plenty of other foods.
+- [What Is Electricity?](https://dadhowdoesitwork.com/episodes/what-is-electricity/): Electricity is the movement of tiny particles called electrons. When they flow along a wire in a loop, they carry energy that can light a bulb, spin a motor or charge a phone.
+- [How Does YouTube Know Which Ads to Show Me?](https://dadhowdoesitwork.com/episodes/how-does-youtube-know-which-ads-to-show-me/): YouTube looks at what you watch, search for and click on, and puts people with similar habits into groups. Advertisers choose which groups should see their ads, and a computer picks an ad in a split second before the video starts.
+- [How Did We Reach the Moon?](https://dadhowdoesitwork.com/episodes/how-did-we-reach-the-moon/): People reached the Moon in 1969 on a giant rocket called Saturn V, which carried the Apollo 11 astronauts out of Earth's pull. After about three days in space, a small lander took two astronauts down to the surface while a third stayed in orbit.
+- [How Big Is the Sun?](https://dadhowdoesitwork.com/episodes/how-big-is-the-sun/): The Sun is enormous: about 109 Earths would fit across it, and around a million Earths could fit inside it. It only looks small because it is about 150 million kilometres away.
+- [Why Does Everything Fall Down?](https://dadhowdoesitwork.com/episodes/why-does-everything-fall-down/): Things fall because of gravity, an invisible pull between everything that has mass. Earth is so huge that its pull on us is strong enough to bring a dropped ball, an apple or a raindrop back down to the ground.
+- [How Do Planes Fly?](https://dadhowdoesitwork.com/episodes/how-do-planes-fly/): A plane's wings are shaped and tilted so that, as the plane moves fast, they push air downward. The air pushes the wing back up, and that push is called lift. The engines don't lift the plane; their job is to push it forward fast enough for the wings to work.
+- [Why Is the Sky Blue?](https://dadhowdoesitwork.com/episodes/why-is-the-sky-blue/): Sunlight looks white but is a mix of all colours. When it hits the tiny gas molecules in the air, blue light gets scattered all over the sky much more than red light, so blue reaches our eyes from every direction. It has nothing to do with the sky reflecting the ocean.
+
+## Episodes (Hebrew)
+- [איך המקרר הופך את המים שלי לקרים?](https://dadhowdoesitwork.com/he/episodes/how-does-a-refrigerator-make-my-drink-cold/)
+- [למה יוצאות לי דמעות כשאני בוכה?](https://dadhowdoesitwork.com/he/episodes/why-do-tears-come-out-when-i-cry/)
+- [למה הבטן שלי מקרקרת כשאני רעב?](https://dadhowdoesitwork.com/he/episodes/why-does-my-stomach-growl-when-im-hungry/)
+- [למה צריך סבון אם כבר יש מים?](https://dadhowdoesitwork.com/he/episodes/why-do-we-need-soap-if-we-already-have-water/)
+- [למה עקיצות וחתכים מציקים יותר במקלחת?](https://dadhowdoesitwork.com/he/episodes/why-do-bites-and-cuts-feel-worse-in-the-shower/)
+- [איך זה שאני רק מצמיד כרטיס אשראי וזה משלם?](https://dadhowdoesitwork.com/he/episodes/how-does-tapping-a-credit-card-actually-pay/)
+- [איך עצים מדברים אחד עם השני?](https://dadhowdoesitwork.com/he/episodes/how-do-trees-talk-to-each-other/)
+- [למה האצבעות שלנו מתקמטות במים?](https://dadhowdoesitwork.com/he/episodes/why-do-your-fingers-get-wrinkly-in-water/)
+- [איך פצע מחלים?](https://dadhowdoesitwork.com/he/episodes/how-does-a-cut-heal/)
+- [איך סוללה מייצרת חשמל?](https://dadhowdoesitwork.com/he/episodes/how-does-a-battery-make-electricity/)
+- [איך גוגל יודע איך נראית פנדה אדומה?](https://dadhowdoesitwork.com/he/episodes/how-does-google-know-what-a-red-panda-looks-like/)
+- [למה יש לי בחילה בנסיעה?](https://dadhowdoesitwork.com/he/episodes/why-do-i-feel-sick-when-im-driving/)
+- [איך הדינוזאורים נעלמו?](https://dadhowdoesitwork.com/he/episodes/how-did-the-dinosaurs-disappear/)
+- [הסיפור של לגו: מאיפה הכול התחיל?](https://dadhowdoesitwork.com/he/episodes/where-did-lego-start/)
+- [איך צ'אט GPT נשמע כמו בן אדם אמיתי?](https://dadhowdoesitwork.com/he/episodes/how-does-chatgpt-sound-like-a-real-person/)
+- [איך מים יוצאים מהברז?](https://dadhowdoesitwork.com/he/episodes/how-does-water-come-out-of-the-tap/)
+- [איך השלט מדבר עם הטלוויזיה?](https://dadhowdoesitwork.com/he/episodes/how-does-the-remote-talk-to-the-tv/)
+- [מאיפה המזגן מביא אוויר קר?](https://dadhowdoesitwork.com/he/episodes/where-does-the-air-conditioner-get-cold-air/)
+- [מאיפה כל האבק הזה מגיע?](https://dadhowdoesitwork.com/he/episodes/where-does-all-this-dust-come-from/)
+- [למה חברות צריכות עוד כסף כדי לגדול?](https://dadhowdoesitwork.com/he/episodes/why-do-companies-need-more-money-to-grow/)
+- [איך פלסטיק הופך לבלון?](https://dadhowdoesitwork.com/he/episodes/how-does-plastic-even-become-a-balloon/)
+- [איך בכלל נוצרת אבן?](https://dadhowdoesitwork.com/he/episodes/how-are-stones-made/)
+- [רגע… אני באמת יכול להיות בעלים של חלק מאפל ונטפליקס?](https://dadhowdoesitwork.com/he/episodes/wait-can-i-actually-own-part-of-apple-and-netflix/)
+- [האם היבשות באמת זזות או שזה רק רעידות אדמה?](https://dadhowdoesitwork.com/he/episodes/do-continents-really-move-or-is-that-just-earthquakes/)
+- [איך אסטרונאוטים אוכלים וישנים בחלל?](https://dadhowdoesitwork.com/he/episodes/how-do-astronauts-go-to-the-bathroom-in-space/)
+- [למה בכלל צריך חיסונים אם אנחנו לא חולים?](https://dadhowdoesitwork.com/he/episodes/why-do-we-need-vaccines-if-were-not-sick/)
+- [למה אנחנו חולמים?](https://dadhowdoesitwork.com/he/episodes/why-do-we-dream/)
+- [איך דגים נושמים מתחת למים?](https://dadhowdoesitwork.com/he/episodes/how-do-fish-even-breathe-underwater/)
+- [איך הטלפון שלי יודע איפה אני? (GPS)](https://dadhowdoesitwork.com/he/episodes/how-does-my-phone-know-exactly-where-i-am/)
+- [איך כיפת ברזל מגנה עלינו?](https://dadhowdoesitwork.com/he/episodes/iron-dome/)
+- [איך המיקרוגל מחמם אוכל כל כך מהר?](https://dadhowdoesitwork.com/he/episodes/how-does-a-microwave-heat-food-so-fast/)
+- [איך עקיצת היתוש כל כך שקטה?](https://dadhowdoesitwork.com/he/episodes/how-is-the-mosquito-bite-so-silent/)
+- [איך עץ בכלל הופך לנייר?](https://dadhowdoesitwork.com/he/episodes/how-does-paper-even-come-from-trees/)
+- [למה קר לנו כשאנחנו רטובים (זה לא בגלל שהמים קרים)](https://dadhowdoesitwork.com/he/episodes/why-do-i-feel-cold-right-after-a-hot-shower/)
+- [איך מידע עובר באינטרנט?](https://dadhowdoesitwork.com/he/episodes/why-isnt-there-wi-fi-outside/)
+- [מה זה בעצם ברק?](https://dadhowdoesitwork.com/he/episodes/why-does-lightning-flash/)
+- [למה סרטן הולך הצידה בעצם?](https://dadhowdoesitwork.com/he/episodes/why-do-crabs-walk-sideways/)
+- [למה כל כך חשוב שנאכל חלבון?](https://dadhowdoesitwork.com/he/episodes/why-is-it-important-to-eat-protein/)
+- [איפה נמצאים כל המשחקים והסרטונים שלנו?](https://dadhowdoesitwork.com/he/episodes/where-are-all-our-games-and-videos-saved/)
+- [מה משקפיים עושים לעיניים שלנו?](https://dadhowdoesitwork.com/he/episodes/how-do-glasses-help-us-read/)
+- [איך נוצר הגשם?](https://dadhowdoesitwork.com/he/episodes/why-does-rain-fall-from-the-sky/)
+- [איך מכונית מצליחה לנסוע בלי נהג?](https://dadhowdoesitwork.com/he/episodes/how-does-a-self-driving-car-drive-by-itself/)
+- [למה הלב דופק כל הזמן?](https://dadhowdoesitwork.com/he/episodes/why-cant-my-heart-ever-stop-beating/)
+- [למה כולם אומרים לי די עם הממתקים?](https://dadhowdoesitwork.com/he/episodes/why-is-everyone-always-telling-me-to-eat-less-sugar/)
+- [מה זה חשמל?](https://dadhowdoesitwork.com/he/episodes/what-is-electricity/)
+- [איך יוטיוב יודע איזו פרסומות להראות לי?](https://dadhowdoesitwork.com/he/episodes/how-does-youtube-know-which-ads-to-show-me/)
+- [איך הגענו לירח?](https://dadhowdoesitwork.com/he/episodes/how-did-we-reach-the-moon/)
+- [אז כמה גדולה השמש בעצם?](https://dadhowdoesitwork.com/he/episodes/how-big-is-the-sun/)
+- [כוח המשיכה: למה הכול תמיד נופל למטה?](https://dadhowdoesitwork.com/he/episodes/why-does-everything-fall-down/)
+- [איך מטוסים עפים?](https://dadhowdoesitwork.com/he/episodes/how-do-planes-fly/)
+- [למה השמיים כחולים?](https://dadhowdoesitwork.com/he/episodes/why-is-the-sky-blue/)
