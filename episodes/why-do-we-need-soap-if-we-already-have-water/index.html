@@ -6,8 +6,13 @@
 <title>Why Do We Need Soap If We Already Have Water? | Science Podcast for Kids, Ep 47</title>
 <meta name="description" content="Episode 47 (5 min): You rinse greasy pizza fingers under the tap. The water runs over them, but they still feel slippery. Why can water wash away mud…">
 <link rel="canonical" href="https://dadhowdoesitwork.com/episodes/why-do-we-need-soap-if-we-already-have-water/">
+
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; media-src https:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="theme-color" content="#fff8ec">
+<link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="/assets/favicon.png" type="image/png">
+<link rel="manifest" href="/site.webmanifest">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="alternate" type="application/rss+xml" title="Dad, How Does It Work?" href="https://anchor.fm/s/10eb0cbb0/podcast/rss">
 <meta property="og:site_name" content="Dad, How Does It Work?">
@@ -16,8 +21,13 @@
 <meta property="og:description" content="Episode 47 (5 min): You rinse greasy pizza fingers under the tap. The water runs over them, but they still feel slippery. Why can water wash away mud…">
 <meta property="og:url" content="https://dadhowdoesitwork.com/episodes/why-do-we-need-soap-if-we-already-have-water/">
 <meta property="og:image" content="https://dadhowdoesitwork.com/assets/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Dad, How Does It Work? Science podcast for kids ages 5 to 10, with the illustrated show art">
+<meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
-<style>:root{--bg:#fff8ec;--card:#fff;--ink:#1f2a44;--muted:#5a6478;--or:#e8741c;--or2:#ffb35c;--te:#127c84;--te2:#d9f2f0;--sun:#ffd34d;--r:18px}
+<meta name="twitter:image" content="https://dadhowdoesitwork.com/assets/og.jpg">
+<style>:root{--bg:#fff8ec;--card:#fff;--ink:#1f2a44;--muted:#5a6478;--or:#b5530b;--or2:#ffb35c;--te:#127c84;--te2:#d9f2f0;--sun:#ffd34d;--r:18px}
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 ui-rounded,"SF Pro Rounded","Nunito","Segoe UI",system-ui,-apple-system,Roboto,Arial,sans-serif}
 a{color:var(--te)}img{max-width:100%;height:auto;display:block}
@@ -37,7 +47,7 @@ nav a:hover,nav a[aria-current]{background:var(--te2)}
 .btns{display:flex;flex-wrap:wrap;gap:10px;margin:12px 0}
 .btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:10px 18px;border-radius:999px;font-weight:800;text-decoration:none;color:#fff;background:var(--te);border:0;font-size:1rem}
 .btn.or{background:var(--or)}.btn.alt{background:#fff;color:var(--ink);border:2px solid var(--ink)}
-.btn.apple{background:#8b2fc9}.btn.spot{background:#1aa34a}.btn.yt{background:#d62020}
+.btn.apple{background:#8b2fc9}.btn.spot{background:#137a36}.btn.yt{background:#d62020}
 h2{font-size:1.5rem;margin:1.6em 0 .5em}
 .cards{display:grid;gap:14px;grid-template-columns:1fr;list-style:none;padding:0;margin:0}
 .card{background:var(--card);border-radius:var(--r);padding:16px 16px 16px 76px;position:relative;box-shadow:0 2px 0 rgba(31,42,68,.08);border:2px solid #f1e6d2}
@@ -47,7 +57,7 @@ h2{font-size:1.5rem;margin:1.6em 0 .5em}
 .card h3 a::after{content:"";position:absolute;inset:0}
 .meta{color:var(--muted);font-size:.9rem}
 .card p{margin:4px 0 0;color:var(--muted);font-size:.95rem}
-.badge{display:inline-block;background:var(--te2);color:var(--te);border-radius:999px;padding:1px 9px;font-size:.78rem;font-weight:800;margin-left:6px}
+.badge{display:inline-block;background:var(--te2);color:#0e6b72;border-radius:999px;padding:1px 9px;font-size:.78rem;font-weight:800;margin-left:6px}
 .box{background:#fff;border-radius:var(--r);padding:18px;border:2px solid #f1e6d2;margin:16px 0}
 .why{display:grid;gap:12px;grid-template-columns:1fr;padding:0;list-style:none}
 .why li{background:#fff;border-radius:var(--r);padding:14px 16px;border:2px solid #f1e6d2}
@@ -60,29 +70,43 @@ details{background:#fff;border-radius:var(--r);border:2px solid #f1e6d2;padding:
 summary{cursor:pointer;font-weight:800;padding:10px 0;font-size:1.1rem}
 .t{margin:.55em 0}.t b{font-weight:800}.t.h1 b{color:var(--or)}.t.h2 b{color:var(--te)}
 .crumbs{font-size:.9rem;margin:14px 0 0;color:var(--muted)}.crumbs a{color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 12px}
+.chip{display:inline-flex;align-items:center;min-height:44px;padding:8px 16px;border-radius:999px;background:#fff;border:2px solid #e3d6bf;color:var(--ink);font-weight:800;text-decoration:none;font-size:.95rem}
+.chip:hover{border-color:var(--te)}.chip[aria-current]{background:var(--te);border-color:var(--te);color:#fff}
 .search{width:100%;min-height:48px;border-radius:999px;border:2px solid #e3d6bf;padding:10px 18px;font-size:1rem;margin:4px 0 14px;background:#fff}
 footer{margin-top:40px;background:var(--ink);color:#e9edf5;padding:26px 0 34px;font-size:.92rem}
 footer a{color:#ffd34d}footer .wrap{display:grid;gap:8px}
 .small{font-size:.88rem;color:var(--muted)}
+a:focus-visible,button:focus-visible,input:focus-visible,summary:focus-visible,audio:focus-visible{outline:3px solid #1f2a44;outline-offset:3px;border-radius:8px}
+.btn:focus-visible{outline:3px solid #1f2a44;outline-offset:3px}
+.skip{position:absolute;left:-9999px;top:8px;background:#1f2a44;color:#fff;padding:10px 16px;border-radius:10px;z-index:10;font-weight:800}.skip:focus{left:8px}
+.sr{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+nav{display:flex;gap:2px}nav a{display:inline-flex;align-items:center;min-height:44px}
+.brand{min-height:44px}
+.crumbs a{display:inline-block;padding:10px 2px}
+footer a{display:inline-block;padding:6px 0}
+summary{min-height:44px}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
 @media (min-width:720px){.hero .grid{grid-template-columns:1.3fr 1fr}.cards{grid-template-columns:1fr 1fr}.why{grid-template-columns:1fr 1fr 1fr}nav a{padding:8px 12px;font-size:1rem}}
-@media (max-width:420px){.brand span{display:none}}</style>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "PodcastEpisode", "url": "https://dadhowdoesitwork.com/episodes/why-do-we-need-soap-if-we-already-have-water/", "name": "Why Do We Need Soap If We Already Have Water?", "episodeNumber": 47, "datePublished": "2026-09-28", "timeRequired": "PT5M12S", "description": "You rinse greasy pizza fingers under the tap. The water runs over them, but they still feel slippery. Why can water wash away mud but struggle with oil? What does soap add that water is missing? Are the bubbles really doing the cleaning? Does soap have to kill every germ to get it off your hands? Somehow, soap helps water grab what it could not grab alone.", "image": "https://dadhowdoesitwork.com/assets/art-1400.jpg", "inLanguage": "en", "isFamilyFriendly": true, "associatedMedia": {"@type": "MediaObject", "contentUrl": "https://anchor.fm/s/10eb0cbb0/podcast/play/126402684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F9b376b7b-2a9f-7a6e-9e49-74e9f5a651b5.m4a", "encodingFormat": "audio/mp4", "duration": "PT5M12S"}, "partOfSeries": {"@type": "PodcastSeries", "@id": "https://dadhowdoesitwork.com/#podcast", "name": "Dad, How Does It Work?", "url": "https://dadhowdoesitwork.com/"}, "audience": {"@type": "PeopleAudience", "suggestedMinAge": 5, "suggestedMaxAge": 10}}</script>
+@media (max-width:420px){.brand span{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}}</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "PodcastEpisode", "url": "https://dadhowdoesitwork.com/episodes/why-do-we-need-soap-if-we-already-have-water/", "name": "Why Do We Need Soap If We Already Have Water?", "episodeNumber": 47, "datePublished": "2026-09-28", "timeRequired": "PT5M12S", "description": "You rinse greasy pizza fingers under the tap. The water runs over them, but they still feel slippery. Why can water wash away mud but struggle with oil? What does soap add that water is missing? Are the bubbles really doing the cleaning? Does soap have to kill every germ to get it off your hands? Somehow, soap helps water grab what it could not grab alone.", "image": "https://dadhowdoesitwork.com/assets/art-1400.jpg", "inLanguage": "en", "isFamilyFriendly": true, "associatedMedia": {"@type": "MediaObject", "contentUrl": "https://anchor.fm/s/10eb0cbb0/podcast/play/126402684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F9b376b7b-2a9f-7a6e-9e49-74e9f5a651b5.m4a", "encodingFormat": "audio/mp4", "duration": "PT5M12S"}, "partOfSeries": {"@type": "PodcastSeries", "@id": "https://dadhowdoesitwork.com/#podcast", "name": "Dad, How Does It Work?", "url": "https://dadhowdoesitwork.com/"}, "audience": {"@type": "PeopleAudience", "suggestedMinAge": 5, "suggestedMaxAge": 10}, "about": "Home & Everyday Stuff"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dadhowdoesitwork.com/"}, {"@type": "ListItem", "position": 2, "name": "Episodes", "item": "https://dadhowdoesitwork.com/episodes/"}, {"@type": "ListItem", "position": 3, "name": "Why Do We Need Soap If We Already Have Water?", "item": "https://dadhowdoesitwork.com/episodes/why-do-we-need-soap-if-we-already-have-water/"}]}</script>
 </head>
 <body>
-<header class="top"><div class="wrap"><a class="brand" href="/"><img src="/assets/art-80.webp" width="40" height="40" alt=""><span>Dad, How Does It Work?</span></a><nav aria-label="Main"><a href="/">Home</a><a href="/episodes/">Episodes</a><a href="/about/">About</a><a href="/contact/">Contact</a></nav></div></header>
-<main class="wrap">
+<a class="skip" href="#main">Skip to content</a>
+<header class="top"><div class="wrap"><a class="brand" href="/" aria-label="Dad, How Does It Work? home"><img src="/assets/art-80.webp" width="40" height="40" alt=""><span>Dad, How Does It Work?</span></a><nav aria-label="Main"><a href="/">Home</a><a href="/episodes/">Episodes</a><a href="/about/">About</a><a href="/contact/">Contact</a></nav></div></header>
+<main class="wrap" id="main">
 
 <p class="crumbs"><a href="/">Home</a> › <a href="/episodes/">Episodes</a> › Episode 47</p>
 <article>
 <span class="pill">Episode 47 · 5 min · Ages 5–10</span>
 <h1>Why Do We Need Soap If We Already Have Water?</h1>
 <div class="box"><b>Listen now</b>
-<audio controls preload="none" src="https://anchor.fm/s/10eb0cbb0/podcast/play/126402684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F9b376b7b-2a9f-7a6e-9e49-74e9f5a651b5.m4a"></audio>
-<div class="btns"><a class="btn spot" href="https://open.spotify.com/episode/1ReyEf2rF7iwVmLBQS0MHz" rel="noopener">Spotify</a><a class="btn apple" href="https://podcasts.apple.com/us/podcast/why-do-we-need-soap-if-we-already-have-water-for-kids/id1877456012?i=1000791968933" rel="noopener">Apple Podcasts</a><a class="btn alt" href="https://pod.link/1877456012" rel="noopener">Other apps</a></div>
+<audio controls preload="none" aria-label="Play episode 47: Why Do We Need Soap If We Already Have Water?" src="https://anchor.fm/s/10eb0cbb0/podcast/play/126402684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F9b376b7b-2a9f-7a6e-9e49-74e9f5a651b5.m4a"></audio>
+<div class="btns"><a class="btn spot" href="https://open.spotify.com/episode/1ReyEf2rF7iwVmLBQS0MHz" target="_blank" rel="noopener">Spotify<span class="sr"> (opens in a new tab)</span></a><a class="btn apple" href="https://podcasts.apple.com/us/podcast/why-do-we-need-soap-if-we-already-have-water-for-kids/id1877456012?i=1000791968933" target="_blank" rel="noopener">Apple Podcasts<span class="sr"> (opens in a new tab)</span></a><a class="btn alt" href="https://pod.link/1877456012" target="_blank" rel="noopener">Other apps<span class="sr"> (opens in a new tab)</span></a></div>
 </div>
 <div class="desc"><p>You rinse greasy pizza fingers under the tap. The water runs over them, but they still feel slippery. Why can water wash away mud but struggle with oil? What does soap add that water is missing? Are the bubbles really doing the cleaning? Does soap have to kill every germ to get it off your hands? Somehow, soap helps water grab what it could not grab alone.</p></div>
-<p class="meta">Published 28 September 2026</p>
+<p class="meta">Topic: <a href="/episodes/?topic=home-everyday">Home &amp; Everyday Stuff</a> · Published 28 September 2026</p>
 <div class="box"><h2 style="margin-top:0">Talk about it after listening</h2><ol class="qs"><li>Why can&#x27;t plain water wash pizza grease off your fingers?</li><li>A soap molecule has two &quot;hands&quot;. What does each hand like to hold?</li><li>Do more bubbles mean the soap is cleaning better? What does the episode say?</li></ol></div><details><summary>Read the full transcript</summary><p class="small">Two adult hosts. Lightly edited for reading; small differences from the audio are possible.</p><p class="t h1"><b>Host 1:</b> Hello. Welcome to the podcast. Dad, how does it work?</p>
 <p class="t h2"><b>Host 2:</b> Glad to be here.</p>
 <p class="t h1"><b>Host 1:</b> Have you ever, like, eaten a super greasy slice of pizza or maybe some really salty chips and then tried to clean your shiny fingers with just plain water?</p>
@@ -137,12 +161,12 @@ footer a{color:#ffd34d}footer .wrap{display:grid;gap:8px}
 </article>
 <div class="btns"><a class="btn alt" href="/episodes/why-do-bites-and-cuts-feel-worse-in-the-shower/">← Episode 46</a><a class="btn alt" href="/episodes/why-does-my-stomach-growl-when-im-hungry/">Episode 48 →</a></div>
 <h2>More questions</h2>
-<ul class="cards"><li class="card"><span class="num" aria-hidden="true">42</span><h3><a href="/episodes/how-does-a-cut-heal/">How Does a Cut Heal?</a></h3><div class="meta">Episode 42 · 6 min<span class="badge">Transcript</span></div><p>How does a cut heal? You scrape your knee, and a few days later a scab appears and the cut starts closing.</p></li><li class="card"><span class="num" aria-hidden="true">36</span><h3><a href="/episodes/how-does-chatgpt-sound-like-a-real-person/">How Does ChatGPT Sound Like a Real Person?</a></h3><div class="meta">Episode 36 · 6 min</div><p>You ask ChatGPT a question, and seconds later it answers like someone is really talking to you.</p></li></ul>
+<ul class="cards"><li class="card" data-topic="your-body"><span class="num" aria-hidden="true">42</span><h3><a href="/episodes/how-does-a-cut-heal/">How Does a Cut Heal?</a></h3><div class="meta">Episode 42 · 6 min · Your Body<span class="badge">Transcript</span></div><p>How does a cut heal? You scrape your knee, and a few days later a scab appears and the cut starts closing.</p></li><li class="card" data-topic="machines-tech"><span class="num" aria-hidden="true">36</span><h3><a href="/episodes/how-does-chatgpt-sound-like-a-real-person/">How Does ChatGPT Sound Like a Real Person?</a></h3><div class="meta">Episode 36 · 6 min · Machines &amp; Tech</div><p>You ask ChatGPT a question, and seconds later it answers like someone is really talking to you.</p></li></ul>
 
 </main>
 <footer><div class="wrap">
 <div><b>Dad, How Does It Work?</b> · A science podcast for curious kids ages 5–10 and their grown-ups.</div>
-<div>Listen: <a href="https://open.spotify.com/show/4z5BtKPgtJx0JR47kEjqJi">Spotify</a> · <a href="https://podcasts.apple.com/us/podcast/dad-how-does-it-work-science-podcast-for-kids/id1877456012">Apple Podcasts</a> · <a href="https://www.youtube.com/@DadHowDoesItWork">YouTube</a> · <a href="https://www.instagram.com/dadhowdoesitwork/">Instagram</a> · <a href="https://pod.link/1877456012">all apps</a> · <a href="https://anchor.fm/s/10eb0cbb0/podcast/rss">RSS</a></div>
+<div>Listen: <a href="https://open.spotify.com/show/4z5BtKPgtJx0JR47kEjqJi" target="_blank" rel="noopener">Spotify<span class="sr"> (opens in a new tab)</span></a> · <a href="https://podcasts.apple.com/us/podcast/dad-how-does-it-work-science-podcast-for-kids/id1877456012" target="_blank" rel="noopener">Apple Podcasts<span class="sr"> (opens in a new tab)</span></a> · <a href="https://www.youtube.com/@DadHowDoesItWork" target="_blank" rel="noopener">YouTube<span class="sr"> (opens in a new tab)</span></a> · <a href="https://www.instagram.com/dadhowdoesitwork/" target="_blank" rel="noopener">Instagram<span class="sr"> (opens in a new tab)</span></a> · <a href="https://pod.link/1877456012" target="_blank" rel="noopener">all apps<span class="sr"> (opens in a new tab)</span></a> · <a href="https://anchor.fm/s/10eb0cbb0/podcast/rss" target="_blank" rel="noopener">RSS<span class="sr"> (opens in a new tab)</span></a></div>
 <div>Grown-ups can reach us at <a href="mailto:dadhowdoesitwork@mail.grokbot.com">dadhowdoesitwork@mail.grokbot.com</a>. This site uses no cookies, no trackers and no ads, and collects nothing.</div>
 <div>© 2026 Roey Granot</div>
 </div></footer>

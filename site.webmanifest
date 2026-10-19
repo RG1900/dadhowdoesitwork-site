@@ -1,0 +1,21 @@
+{
+ "name": "Dad, How Does It Work?",
+ "short_name": "Dad, How?",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#fff8ec",
+ "theme_color": "#fff8ec",
+ "description": "A science podcast for curious kids ages 5–10 and their parents. Every short episode answers one big question, like why the sky is blue or how planes fly. Most episodes are under 10 minutes.",
+ "icons": [
+  {
+   "src": "/assets/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
