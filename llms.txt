@@ -23,6 +23,7 @@
 - [Hebrew episodes](https://dadhowdoesitwork.com/he/episodes/)
 
 ## Episodes (English)
+- [Why Do I Get Goosebumps When I'm Cold or Scared?](https://dadhowdoesitwork.com/episodes/why-do-i-get-goosebumps-when-im-cold-or-scared/): 
 - [How Does a Refrigerator Make My Drink Cold?](https://dadhowdoesitwork.com/episodes/how-does-a-refrigerator-make-my-drink-cold/): A fridge doesn't add cold; it takes heat out. A special liquid flows through pipes inside the fridge, soaks up heat from your drink and the air, and carries it to the back of the fridge, where it is released into the kitchen. That's why the back or sides of a fridge feel warm.
 - [Why Do Tears Come Out When I Cry?](https://dadhowdoesitwork.com/episodes/why-do-tears-come-out-when-i-cry/): Tears come from a small gland above the outer corner of each eye and drain through tiny holes near the nose, which is why your nose runs when you cry. Tears keep the eye clean and wet, and strong feelings can make the gland produce many more.
 - [Why Does My Stomach Growl When I'm Hungry?](https://dadhowdoesitwork.com/episodes/why-does-my-stomach-growl-when-im-hungry/): Your stomach and intestines always squeeze to move food along. When they're empty, the squeezing pushes around air and stomach juices, and the sound is louder because there's no food to muffle it. The growl is also a sign that your body is ready for food.
@@ -75,6 +76,7 @@
 - [Why Is the Sky Blue?](https://dadhowdoesitwork.com/episodes/why-is-the-sky-blue/): Sunlight looks white but is a mix of all colours. When it hits the tiny gas molecules in the air, blue light gets scattered all over the sky much more than red light, so blue reaches our eyes from every direction. It has nothing to do with the sky reflecting the ocean.
 
 ## Episodes (Hebrew)
+- [למה יש לי עור ברווז כשקר לי או כשאני מפחד?](https://dadhowdoesitwork.com/he/episodes/why-do-i-get-goosebumps-when-im-cold-or-scared/)
 - [איך המקרר הופך את המים שלי לקרים?](https://dadhowdoesitwork.com/he/episodes/how-does-a-refrigerator-make-my-drink-cold/)
 - [למה יוצאות לי דמעות כשאני בוכה?](https://dadhowdoesitwork.com/he/episodes/why-do-tears-come-out-when-i-cry/)
 - [למה הבטן שלי מקרקרת כשאני רעב?](https://dadhowdoesitwork.com/he/episodes/why-does-my-stomach-growl-when-im-hungry/)
