@@ -7,7 +7,8 @@
 - Hebrew website: https://dadhowdoesitwork.com/he/
 - Spotify: https://open.spotify.com/show/4z5BtKPgtJx0JR47kEjqJi
 - Apple Podcasts: https://podcasts.apple.com/us/podcast/dad-how-does-it-work-science-podcast-for-kids/id1877456012
-- YouTube: https://www.youtube.com/@DadHowDoesItWork
+- YouTube channel: https://www.youtube.com/@DadHowDoesItWork
+- YouTube Full Episodes playlist: https://www.youtube.com/playlist?list=PLAEV9EPoSGYs
 - Instagram: https://www.instagram.com/dadhowdoesitwork/
 - Facebook: https://www.facebook.com/dadhowdoesitwork/
 - LinkedIn: https://www.linkedin.com/company/dad-how-does-it-work/
@@ -19,6 +20,7 @@
 
 ## Key pages
 - [All episodes](https://dadhowdoesitwork.com/episodes/): every episode, searchable, with topic filters
+- [Watch on YouTube](https://dadhowdoesitwork.com/youtube/): full episodes as videos
 - [About](https://dadhowdoesitwork.com/about/)
 - [Hebrew episodes](https://dadhowdoesitwork.com/he/episodes/)
 
