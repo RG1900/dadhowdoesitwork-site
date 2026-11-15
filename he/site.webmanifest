@@ -1,0 +1,23 @@
+{
+ "name": "אבא, איך זה עובד?",
+ "short_name": "אבא, איך זה עובד?",
+ "start_url": "/he/",
+ "display": "standalone",
+ "background_color": "#fff8ec",
+ "theme_color": "#fff8ec",
+ "description": "פודקאסט מדע וטכנולוגיה בעברית לילדים סקרנים ולהורים שלהם. בכל פרק קצר שני מנחים עונים על שאלה גדולה אחת, כמו למה השמיים כחולים או איך מטוסים עפים. פרק חדש בכל שבוע.",
+ "lang": "he",
+ "dir": "rtl",
+ "icons": [
+  {
+   "src": "/assets/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}

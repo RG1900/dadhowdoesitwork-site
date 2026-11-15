@@ -104,7 +104,7 @@ summary{min-height:44px}
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
-<header class="top"><div class="wrap"><a class="brand" href="/" aria-label="Dad, How Does It Work? home"><img src="/assets/art-80.webp" width="40" height="40" alt=""><span>Dad, How Does It Work?</span></a><div class="navwrap"><nav aria-label="Main"><a href="/" class="home">Home</a><a href="/episodes/">Episodes</a><a href="/youtube/">YouTube</a><a href="/about/">About</a><a href="/contact/">Contact</a></nav><a class="lang" href="/he/" hreflang="he" lang="he">עברית</a></div></div></header>
+<header class="top"><div class="wrap"><a class="brand" href="/" aria-label="Dad, How Does It Work? home"><img src="/assets/mark-80.webp" width="40" height="40" alt=""><span>Dad, How Does It Work?</span></a><div class="navwrap"><nav aria-label="Main"><a href="/" class="home">Home</a><a href="/episodes/">Episodes</a><a href="/youtube/">YouTube</a><a href="/guides/">Guides</a><a href="/about/">About</a><a href="/contact/">Contact</a></nav><a class="lang" href="/he/" hreflang="he" lang="he">עברית</a></div></div></header>
 <main class="wrap" id="main">
 <h1>Oops! That page floated away.</h1><p>Try the <a href="/episodes/">episode list</a> or go <a href="/">home</a>.</p><p lang="he" dir="rtl">הדף לא נמצא. <a href="/he/">לדף הבית בעברית</a> או <a href="/he/episodes/">לכל הפרקים</a>.</p>
 </main>
@@ -115,5 +115,21 @@ summary{min-height:44px}
 <div>Grown-ups can reach us at <a href="mailto:dadhowdoesitwork@mail.grokbot.com">dadhowdoesitwork@mail.grokbot.com</a>. This site uses no cookies, no trackers and no ads, and collects nothing.</div>
 <div>© 2026 Roey Granot</div>
 </div></footer>
+<script>
+(function(){
+  if(location.pathname.indexOf('/he/')!==0) return;
+  document.documentElement.lang='he';
+  document.documentElement.dir='rtl';
+  document.title='הדף לא נמצא | אבא, איך זה עובד?';
+  var main=document.getElementById('main');
+  if(main){main.innerHTML='<h1>הדף הזה לא נמצא.</h1><p>אפשר לחזור ל<a href="/he/">דף הבית</a> או לעבור ל<a href="/he/episodes/">כל הפרקים</a>.</p>';}
+  var nav=document.querySelector('nav');
+  if(nav){nav.innerHTML='<a href="/he/" class="home">ראשי</a><a href="/he/episodes/">פרקים</a><a href="/he/youtube/">YouTube</a><a href="/he/guides/">מדריכים</a><a href="/he/about/">אודות וקשר</a>';}
+  var brand=document.querySelector('a.brand');
+  if(brand){brand.href='/he/';brand.setAttribute('aria-label','אבא, איך זה עובד? דף הבית');}
+  var sw=document.querySelector('a.lang');
+  if(sw){sw.href='/';sw.setAttribute('hreflang','en');sw.setAttribute('lang','en');sw.textContent='English';}
+})();
+</script>
 </body>
 </html>
