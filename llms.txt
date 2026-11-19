@@ -22,7 +22,11 @@
 - [All episodes](https://dadhowdoesitwork.com/episodes/): every episode, searchable, with topic filters
 - [Watch on YouTube](https://dadhowdoesitwork.com/youtube/): full episodes as videos
 - [About](https://dadhowdoesitwork.com/about/)
+- [Guides](https://dadhowdoesitwork.com/guides/): parent guides and Listen & Discuss lesson guides
+- [Bath and kitchen science](https://dadhowdoesitwork.com/guides/bath-and-kitchen-science/)
 - [Hebrew episodes](https://dadhowdoesitwork.com/he/episodes/)
+- [Hebrew guides](https://dadhowdoesitwork.com/he/guides/)
+- [מדע במקלחת ובמטבח](https://dadhowdoesitwork.com/he/guides/bath-and-kitchen-science/)
 
 ## Episodes (English)
 - [How Did the Moon Form?](https://dadhowdoesitwork.com/episodes/how-did-the-moon-form/): The Moon most likely formed about 4.5 billion years ago, when a planet-sized object crashed into young Earth. The crash threw hot rock and dust into space, and gravity slowly pulled that material together into the Moon. Today the Moon's pull helps cause ocean tides and keeps Earth's tilt steady.
