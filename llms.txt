@@ -29,6 +29,7 @@
 - [מדע במקלחת ובמטבח](https://dadhowdoesitwork.com/he/guides/bath-and-kitchen-science/)
 
 ## Episodes (English)
+- [Why Do We Sneeze?](https://dadhowdoesitwork.com/episodes/why-do-we-sneeze/): 
 - [How Did the Moon Form?](https://dadhowdoesitwork.com/episodes/how-did-the-moon-form/): The Moon most likely formed about 4.5 billion years ago, when a planet-sized object crashed into young Earth. The crash threw hot rock and dust into space, and gravity slowly pulled that material together into the Moon. Today the Moon's pull helps cause ocean tides and keeps Earth's tilt steady.
 - [How Do Volcanoes Erupt?](https://dadhowdoesitwork.com/episodes/how-do-volcanoes-erupt/): Deep underground, rock can melt into magma. Gas dissolved in that magma expands as it rises — like bubbles in fizzy water — and the mix pushes up through weak spots in Earth's crust; that's an eruption. Thick sticky magma traps more gas and tends to explode as ash, while runnier magma lets gas escape more gently and pours out as lava.
 - [Why do we burp and fart?](https://dadhowdoesitwork.com/episodes/why-do-we-burp-and-fart/): A burp is mostly air you swallowed while eating, drinking or talking, plus bubbles from fizzy drinks, escaping back up through your mouth. Farts come from the other end: trillions of tiny bacteria in your gut break down leftover food and make gas as they do it. How loud a fart is depends on how fast the gas squeezes out, while the smell comes from a small amount of sulphur gas, so a loud one isn't always a smelly one.
@@ -85,6 +86,7 @@
 - [Why Is the Sky Blue?](https://dadhowdoesitwork.com/episodes/why-is-the-sky-blue/): Sunlight looks white but is a mix of all colours. When it hits the tiny gas molecules in the air, blue light gets scattered all over the sky much more than red light, so blue reaches our eyes from every direction. It has nothing to do with the sky reflecting the ocean.
 
 ## Episodes (Hebrew)
+- [למה אנחנו מתעטשים?](https://dadhowdoesitwork.com/he/episodes/why-do-we-sneeze/)
 - [איך נוצר הירח, ומה הוא עושה לכדור הארץ?](https://dadhowdoesitwork.com/he/episodes/how-did-the-moon-form/)
 - [איך הר געש מתפרץ?](https://dadhowdoesitwork.com/he/episodes/how-do-volcanoes-erupt/)
 - [למה אנחנו עושים גרעפסים ופלוצים?](https://dadhowdoesitwork.com/he/episodes/why-do-we-burp-and-fart/)
